@@ -12,3 +12,13 @@ let timer_check = '';
 let drawn_sketch = '';
 let answer_holder = '';
 let score = 0;
+
+function draw(){
+    
+}
+function check_sketch() {
+    
+}
+function updateCanvas(){
+
+}
